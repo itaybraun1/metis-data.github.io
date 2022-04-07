@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Metis Data
 
 You can use the [editor on GitHub](https://github.com/itaybraun1/metis-data.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
